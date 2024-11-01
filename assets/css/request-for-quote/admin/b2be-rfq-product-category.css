@@ -1,0 +1,55 @@
+.rfq-category-disabled-text {
+    color: red !important;
+    font-size: 15px !important;
+}
+.rfq-disabled-overlay,
+.rfq-role-disabled-overlay {
+    position: absolute;
+    background: rgba(0, 0, 0, 0.5);
+    width: 80%;
+    height: 100%;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: 2;
+}
+.rfq-role-disabled-overlay {
+    width: 100%;
+    position: fixed;
+}
+.rfq-role-disabled-overlay .rfq-role-disabled-overlay-text {
+    font-size: 25px !important;
+}
+.rfq-disabled-overlay-text,
+.rfq-role-disabled-overlay-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 20px !important;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+    width: 100%;
+    text-align: center;
+}
+.rfq-sign-up-form-disabled-overlay-text a { 
+    color: gold;
+}
+.rfq-sign-up-form-disabled-overlay-text {
+    width: max-content;
+    background: rgba(0,0,0,0.7);
+    padding: 17px;
+    font-size: 20px !important;
+    color: white;
+    text-align: center;
+}
+.options_group div.title {
+    width: 20%;
+    word-wrap: break-word;
+}
+.options_group .form-field div {
+    display: inline-block;
+}
+.options_group .form-field {
+    padding: 10px 0px;
+}

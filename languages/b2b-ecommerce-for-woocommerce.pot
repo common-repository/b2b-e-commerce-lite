@@ -1,0 +1,1822 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR codup
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-18 15:47+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: contact_us/class-b2be-contact-us.php:73
+msgid "Having trouble in configuration?"
+msgstr ""
+
+#: contact_us/class-b2be-contact-us.php:73
+msgid "Contact us"
+msgstr ""
+
+#: contact_us/class-b2be-contact-us.php:73
+msgid " for support."
+msgstr ""
+
+#: contact_us/class-b2be-contact-us.php:76
+msgid "Or email your query at "
+msgstr ""
+
+#: contact_us/class-b2be-contact-us.php:76
+msgid " woosupport@codup.io "
+msgstr ""
+
+#: includes/class-b2b-ecommerce-section.php:46
+msgid "B2B Ecommerce Lite"
+msgstr ""
+
+#: includes/class-b2b-ecommerce-section.php:101
+#: includes/request-for-quote/class-b2be-rfq-settings.php:221
+#: includes/request-for-quote/class-b2be-rfq-settings.php:250
+#: includes/user-role/class-b2be-custom-roles-cpt.php:77
+msgid "RFQ"
+msgstr ""
+
+#: includes/class-b2b-ecommerce-section.php:102
+msgid "Signup Form Generator"
+msgstr ""
+
+#: includes/class-b2b-ecommerce-section.php:103
+msgid "Price Visibility"
+msgstr ""
+
+#: includes/class-b2b-ecommerce-section.php:104
+#: includes/payment-method/class-b2be-payment-method-settings.php:47
+#: includes/payment-method/class-b2be-payment-method-settings.php:54
+msgid "Payment Method"
+msgstr ""
+
+#: includes/class-b2b-ecommerce-section.php:105
+msgid "Discount Option"
+msgstr ""
+
+#: includes/class-b2b-ecommerce-section.php:106
+msgid "MOQ"
+msgstr ""
+
+#: includes/class-b2b-ecommerce-section.php:107
+msgid "Re-Order"
+msgstr ""
+
+#: includes/functions.php:97
+#, php-format
+msgid ""
+"%1$sB2B Ecommerce For Woocommerce is inactive.%2$s The %3$sWooCommerce plugin"
+"%4$s must be active for B2B Ecommerce For Woocommerce to work. Please "
+"%5$sinstall & activate WooCommerce &raquo;%6$s"
+msgstr ""
+
+#: includes/functions.php:210
+#: includes/signup-form/class-b2be-sign-up-form-settings.php:69
+msgid "User Name"
+msgstr ""
+
+#: includes/functions.php:217
+#: includes/signup-form/class-b2be-sign-up-form-settings.php:76
+msgid "First Name"
+msgstr ""
+
+#: includes/functions.php:224
+#: includes/signup-form/class-b2be-sign-up-form-settings.php:83
+msgid "Last Name"
+msgstr ""
+
+#: includes/functions.php:231
+#: includes/signup-form/class-b2be-sign-up-form-settings.php:90
+msgid "Email"
+msgstr ""
+
+#: includes/functions.php:238
+#: includes/signup-form/class-b2be-sign-up-form-settings.php:97
+msgid "Date Of Birth"
+msgstr ""
+
+#: includes/functions.php:245
+#: includes/signup-form/class-b2be-sign-up-form-settings.php:104
+msgid "Role"
+msgstr ""
+
+#: includes/admin/credit-payment/views/credit-fields.php:21
+msgid "Enable Credit Payment "
+msgstr ""
+
+#: includes/admin/credit-payment/views/credit-fields.php:26
+msgid "Award Credit to Users of this Role "
+msgstr ""
+
+#: includes/admin/credit-payment/views/credit-fields.php:30
+msgid "Credit Assign :"
+msgstr ""
+
+#: includes/admin/credit-payment/views/credit-fields.php:39
+msgid "View Logs"
+msgstr ""
+
+#: includes/admin/payment-method/views/payment-method-fields.php:23
+msgid "Payment Method Name"
+msgstr ""
+
+#: includes/admin/payment-method/views/payment-method-fields.php:23
+msgid ""
+"This will create a new payment method on your store according to the given "
+"name"
+msgstr ""
+
+#: includes/admin/payment-method/views/payment-method-footer.php:22
+msgid "Add Another Mehtod"
+msgstr ""
+
+#: includes/admin/request-for-quote/class-rfq-admin-meta-boxes.php:35
+msgid "Quote's data"
+msgstr ""
+
+#: includes/admin/request-for-quote/class-rfq-admin-meta-boxes.php:36
+msgid "Items"
+msgstr ""
+
+#: includes/admin/request-for-quote/class-rfq-admin-meta-boxes.php:37
+msgid "RFQ Comments"
+msgstr ""
+
+#: includes/admin/request-for-quote/class-rfq-admin-meta-boxes.php:56
+#, php-format
+msgid "Quote #%1$s details"
+msgstr ""
+
+#: includes/admin/request-for-quote/class-rfq-admin-meta-boxes.php:59
+msgid "General"
+msgstr ""
+
+#: includes/admin/request-for-quote/class-rfq-admin-meta-boxes.php:61
+msgid "Date created:"
+msgstr ""
+
+#: includes/admin/request-for-quote/class-rfq-admin-meta-boxes.php:64
+msgid "h"
+msgstr ""
+
+#: includes/admin/request-for-quote/class-rfq-admin-meta-boxes.php:65
+msgid "m"
+msgstr ""
+
+#: includes/admin/request-for-quote/class-rfq-admin-meta-boxes.php:70
+msgid "Status:"
+msgstr ""
+
+#: includes/admin/request-for-quote/class-rfq-admin-meta-boxes.php:76
+msgid "Details"
+msgstr ""
+
+#: includes/admin/request-for-quote/class-rfq-admin-meta-boxes.php:90
+msgid "Email address:"
+msgstr ""
+
+#: includes/admin/request-for-quote/class-rfq-admin-meta-boxes.php:94
+msgid "Message:"
+msgstr ""
+
+#: includes/admin/request-for-quote/views/html-quote-comment-meta.php:51
+msgid "Send"
+msgstr ""
+
+#: includes/admin/request-for-quote/views/html-quote-item-meta.php:59
+msgid "Name (required)"
+msgstr ""
+
+#: includes/admin/request-for-quote/views/html-quote-item-meta.php:60
+msgid "Value (required)"
+msgstr ""
+
+#: includes/admin/request-for-quote/views/html-quote-item-meta.php:69
+msgid "Add&nbsp;meta"
+msgstr ""
+
+#: includes/admin/request-for-quote/views/html-quote-item.php:38
+msgid "SKU:"
+msgstr ""
+
+#: includes/admin/request-for-quote/views/html-quote-item.php:42
+msgid "Variation ID:"
+msgstr ""
+
+#: includes/admin/request-for-quote/views/html-quote-item.php:47
+#, php-format
+msgid "%s (No longer exists)"
+msgstr ""
+
+#: includes/admin/request-for-quote/views/html-quote-item.php:100
+#: includes/admin/request-for-quote/views/html-quote-item.php:130
+#: includes/admin/request-for-quote/views/html-quote-item.php:177
+msgid "Before discount"
+msgstr ""
+
+#: includes/admin/request-for-quote/views/html-quote-item.php:136
+#: includes/admin/request-for-quote/views/html-quote-item.php:138
+msgid "After pre-tax discounts."
+msgstr ""
+
+#: includes/admin/request-for-quote/views/html-quote-item.php:181
+#: includes/admin/request-for-quote/views/html-quote-items.php:63
+#: includes/admin/request-for-quote/views/html-quote-items.php:211
+#: includes/admin/request-for-quote/views/quote-items.php:21
+#: includes/admin/request-for-quote/views/quote-items.php:22
+#: templates/request-for-quote/rfq/cart.php:35
+#: templates/request-for-quote/rfq/cart.php:139
+msgid "Total"
+msgstr ""
+
+#: includes/admin/request-for-quote/views/html-quote-item.php:197
+msgid "Delete item"
+msgstr ""
+
+#: includes/admin/request-for-quote/views/html-quote-items.php:19
+msgid "Image"
+msgstr ""
+
+#: includes/admin/request-for-quote/views/html-quote-items.php:20
+#: includes/admin/request-for-quote/views/html-quote-items.php:59
+#: includes/admin/request-for-quote/views/quote-items.php:19
+#: includes/request-for-quote/class-b2be-rfq-form-handler.php:318
+msgid "Item"
+msgstr ""
+
+#: includes/admin/request-for-quote/views/html-quote-items.php:22
+msgid "Actual Price"
+msgstr ""
+
+#: includes/admin/request-for-quote/views/html-quote-items.php:23
+#: includes/admin/request-for-quote/views/html-quote-items.php:62
+msgid "Qty"
+msgstr ""
+
+#: includes/admin/request-for-quote/views/html-quote-items.php:24
+#: templates/request-for-quote/quote/quote-details.php:40
+msgid "Actual Total"
+msgstr ""
+
+#: includes/admin/request-for-quote/views/html-quote-items.php:25
+#: templates/request-for-quote/myaccount/quotes.php:21
+#: templates/request-for-quote/quote/quote-details.php:41
+msgid "Quoted Total"
+msgstr ""
+
+#: includes/admin/request-for-quote/views/html-quote-items.php:46
+msgid "Submit Quotation Again"
+msgstr ""
+
+#: includes/admin/request-for-quote/views/html-quote-items.php:46
+msgid "Submit Quotation"
+msgstr ""
+
+#: includes/admin/request-for-quote/views/html-quote-items.php:51
+#: includes/admin/request-for-quote/views/html-quote-items.php:267
+msgid "Save"
+msgstr ""
+
+#: includes/admin/request-for-quote/views/html-quote-items.php:61
+#: includes/admin/request-for-quote/views/quote-items.php:20
+msgid "Cost"
+msgstr ""
+
+#: includes/admin/request-for-quote/views/html-quote-items.php:68
+#: includes/admin/request-for-quote/views/html-quote-items.php:69
+msgid "Tax"
+msgstr ""
+
+#: includes/admin/request-for-quote/views/html-quote-items.php:71
+#, php-format
+msgid "%1$s (%2$s)"
+msgstr ""
+
+#: includes/admin/request-for-quote/views/html-quote-items.php:119
+msgid "Coupon(s)"
+msgstr ""
+
+#: includes/admin/request-for-quote/views/html-quote-items.php:160
+msgid "Discount:"
+msgstr ""
+
+#: includes/admin/request-for-quote/views/html-quote-items.php:172
+msgid "Shipping:"
+msgstr ""
+
+#: includes/admin/request-for-quote/views/html-quote-items.php:222
+msgid "Refunded"
+msgstr ""
+
+#: includes/admin/request-for-quote/views/html-quote-items.php:236
+msgid "Add item(s)"
+msgstr ""
+
+#: includes/admin/request-for-quote/views/html-quote-items.php:238
+msgid "Apply coupon"
+msgstr ""
+
+#: includes/admin/request-for-quote/views/html-quote-items.php:241
+msgid "To edit this order change the status back to \"Pending\""
+msgstr ""
+
+#: includes/admin/request-for-quote/views/html-quote-items.php:241
+msgid "This order is no longer editable."
+msgstr ""
+
+#: includes/admin/request-for-quote/views/html-quote-items.php:244
+msgid "Refund"
+msgstr ""
+
+#: includes/admin/request-for-quote/views/html-quote-items.php:251
+msgid "Recalculate"
+msgstr ""
+
+#: includes/admin/request-for-quote/views/html-quote-items.php:256
+msgid "Add product(s)"
+msgstr ""
+
+#: includes/admin/request-for-quote/views/html-quote-items.php:257
+msgid "Add fee"
+msgstr ""
+
+#: includes/admin/request-for-quote/views/html-quote-items.php:258
+msgid "Add shipping"
+msgstr ""
+
+#: includes/admin/request-for-quote/views/html-quote-items.php:260
+#: includes/admin/request-for-quote/views/html-quote-items.php:387
+msgid "Add tax"
+msgstr ""
+
+#: includes/admin/request-for-quote/views/html-quote-items.php:266
+#: includes/admin/request-for-quote/views/html-quote-items.php:332
+msgid "Cancel"
+msgstr ""
+
+#: includes/admin/request-for-quote/views/html-quote-items.php:274
+msgid "Restock refunded items"
+msgstr ""
+
+#: includes/admin/request-for-quote/views/html-quote-items.php:279
+msgid "Amount already refunded"
+msgstr ""
+
+#: includes/admin/request-for-quote/views/html-quote-items.php:283
+msgid "Total available to refund"
+msgstr ""
+
+#: includes/admin/request-for-quote/views/html-quote-items.php:289
+msgid ""
+"Refund the line items above. This will show the total amount to be refunded"
+msgstr ""
+
+#: includes/admin/request-for-quote/views/html-quote-items.php:290
+msgid "Refund amount"
+msgstr ""
+
+#: includes/admin/request-for-quote/views/html-quote-items.php:309
+msgid "Note: the refund reason will be visible by the customer."
+msgstr ""
+
+#: includes/admin/request-for-quote/views/html-quote-items.php:310
+msgid "Reason for refund (optional):"
+msgstr ""
+
+#: includes/admin/request-for-quote/views/html-quote-items.php:323
+msgid "Payment gateway"
+msgstr ""
+
+#: includes/admin/request-for-quote/views/html-quote-items.php:327
+#, php-format
+msgid "Refund %1$s via %2$s"
+msgstr ""
+
+#: includes/admin/request-for-quote/views/html-quote-items.php:331
+msgid ""
+"You will need to manually issue a refund through your payment gateway after "
+"using this."
+msgstr ""
+
+#: includes/admin/request-for-quote/views/html-quote-items.php:331
+#, php-format
+msgid "Refund %s manually"
+msgstr ""
+
+#: includes/admin/request-for-quote/views/html-quote-items.php:344
+msgid "Add products"
+msgstr ""
+
+#: includes/admin/request-for-quote/views/html-quote-items.php:354
+#: templates/request-for-quote/quote/quote-details.php:39
+#: templates/request-for-quote/rfq/cart.php:32
+#: templates/request-for-quote/rfq/cart.php:82
+msgid "Product"
+msgstr ""
+
+#: includes/admin/request-for-quote/views/html-quote-items.php:355
+#: templates/request-for-quote/rfq/cart.php:34
+#: templates/request-for-quote/rfq/cart.php:114
+msgid "Quantity"
+msgstr ""
+
+#: includes/admin/request-for-quote/views/html-quote-items.php:360
+msgid "Search for a product&hellip;"
+msgstr ""
+
+#: includes/admin/request-for-quote/views/html-quote-items.php:373
+#: includes/admin/request-for-quote/views/html-quote-items.php:430
+msgid "Add"
+msgstr ""
+
+#: includes/admin/request-for-quote/views/html-quote-items.php:398
+msgid "Rate name"
+msgstr ""
+
+#: includes/admin/request-for-quote/views/html-quote-items.php:399
+msgid "Tax class"
+msgstr ""
+
+#: includes/admin/request-for-quote/views/html-quote-items.php:400
+msgid "Rate code"
+msgstr ""
+
+#: includes/admin/request-for-quote/views/html-quote-items.php:401
+msgid "Rate %"
+msgstr ""
+
+#: includes/admin/request-for-quote/views/html-quote-items.php:422
+msgid "Or, enter tax rate ID:"
+msgstr ""
+
+#: includes/admin/request-for-quote/views/html-quote-items.php:423
+msgid "Optional"
+msgstr ""
+
+#: includes/admin/signup-form/views/sign-up-form-fields.php:16
+msgid "Field Names "
+msgstr ""
+
+#: includes/admin/signup-form/views/sign-up-form-fields.php:16
+msgid "Enter fields name"
+msgstr ""
+
+#: includes/admin/signup-form/views/sign-up-form-fields.php:17
+msgid "Field Type "
+msgstr ""
+
+#: includes/admin/signup-form/views/sign-up-form-fields.php:17
+msgid "Select field type"
+msgstr ""
+
+#: includes/admin/signup-form/views/sign-up-form-fields.php:18
+msgid "Required "
+msgstr ""
+
+#: includes/admin/signup-form/views/sign-up-form-fields.php:18
+msgid "This will make the field required"
+msgstr ""
+
+#: includes/admin/signup-form/views/sign-up-form-fields.php:19
+msgid "Visible "
+msgstr ""
+
+#: includes/admin/signup-form/views/sign-up-form-fields.php:19
+msgid "This will make the field visible"
+msgstr ""
+
+#: includes/admin/signup-form/views/sign-up-form-fields.php:46
+msgid "Text "
+msgstr ""
+
+#: includes/admin/signup-form/views/sign-up-form-fields.php:47
+msgid "Date "
+msgstr ""
+
+#: includes/admin/signup-form/views/sign-up-form-fields.php:48
+msgid "Number "
+msgstr ""
+
+#: includes/admin/signup-form/views/sign-up-form-fields.php:49
+msgid "Email "
+msgstr ""
+
+#: includes/admin/signup-form/views/sign-up-form-fields.php:50
+msgid "Role "
+msgstr ""
+
+#: includes/admin/signup-form/views/sign-up-form-footer.php:22
+msgid "Add Another Field"
+msgstr ""
+
+#: includes/admin/signup-form/views/sign-up-form-footer.php:29
+#: includes/admin/user-role/views/b2be-user-role-fields.php:37
+#: includes/request-for-quote/class-b2be-rfq-settings.php:178
+#: includes/request-for-quote/class-b2be-rfq-settings.php:213
+#: includes/request-for-quote/class-b2be-rfq-settings.php:305
+msgid "Purchase "
+msgstr ""
+
+#: includes/admin/signup-form/views/sign-up-form-footer.php:30
+#: includes/admin/user-role/views/b2be-user-role-fields.php:38
+#: includes/request-for-quote/class-b2be-rfq-settings.php:306
+msgid "B2B Ecommerce For WooCommerce Pro"
+msgstr ""
+
+#: includes/admin/signup-form/views/sign-up-form-footer.php:31
+msgid " To Get The Disabled Features."
+msgstr ""
+
+#: includes/admin/user-role/views/b2be-user-role-fields.php:18
+#: includes/request-for-quote/class-b2be-rfq-settings.php:89
+#: includes/request-for-quote/class-b2be-rfq-settings.php:281
+msgid "Enable RFQ"
+msgstr ""
+
+#: includes/admin/user-role/views/b2be-user-role-fields.php:22
+msgid "Adds a RFQ button for this role."
+msgstr ""
+
+#: includes/admin/user-role/views/b2be-user-role-fields.php:22
+msgid "Hide a RFQ button for this role."
+msgstr ""
+
+#: includes/admin/user-role/views/b2be-user-role-fields.php:27
+#: includes/request-for-quote/class-b2be-rfq-settings.php:98
+#: includes/request-for-quote/class-b2be-rfq-settings.php:293
+msgid "Disable Add to Cart"
+msgstr ""
+
+#: includes/admin/user-role/views/b2be-user-role-fields.php:31
+msgid "Hide Add to cart on this role."
+msgstr ""
+
+#: includes/admin/user-role/views/b2be-user-role-fields.php:31
+msgid "Show Add to cart on this role."
+msgstr ""
+
+#: includes/admin/user-role/views/b2be-user-role-fields.php:39
+#: includes/request-for-quote/class-b2be-rfq-settings.php:307
+msgid " To Get This Feature."
+msgstr ""
+
+#: includes/admin/user-role/views/b2be-user-role-shipping-exempts.php:17
+#: includes/admin/user-role/views/b2be-user-role-shipping-exempts.php:21
+msgid "Exempt Shipping Rate"
+msgstr ""
+
+#: includes/admin/user-role/views/b2be-user-role-tax-exempts.php:17
+msgid "Standard rate"
+msgstr ""
+
+#: includes/admin/user-role/views/b2be-user-role-tax-exempts.php:21
+msgid "Exempt Standard rate"
+msgstr ""
+
+#: includes/admin/user-role/views/b2be-user-role-tax-exempts.php:33
+msgid "Exempt "
+msgstr ""
+
+#: includes/emails/request-for-quote/class-b2be-request-for-qoute-on-edit.php:31
+msgid "Request For qoute On Edit"
+msgstr ""
+
+#: includes/emails/request-for-quote/class-b2be-request-for-qoute-on-edit.php:32
+msgid ""
+"This is a notification sent to admins containing order details after a qoute "
+"is placed on-create."
+msgstr ""
+
+#: includes/emails/request-for-quote/class-b2be-request-for-qoute-on-edit.php:52
+msgid "Yuor {site_title} qoute has been received!"
+msgstr ""
+
+#: includes/emails/request-for-quote/class-b2be-request-for-qoute-on-edit.php:62
+#: includes/emails/request-for-quote/class-b2be-request-for-qoute-status-change.php:63
+msgid "Thank you for your qoute"
+msgstr ""
+
+#: includes/emails/request-for-quote/class-b2be-request-for-qoute-on-edit.php:137
+msgid "We look forward to fulfilling yuor order soon."
+msgstr ""
+
+#: includes/emails/request-for-quote/class-b2be-request-for-qoute-on-message-send.php:31
+msgid "Request For Qoute On Message Send"
+msgstr ""
+
+#: includes/emails/request-for-quote/class-b2be-request-for-qoute-on-message-send.php:32
+msgid ""
+"This is a notification sent to customers containing order details after a "
+"qoute is placed on-create."
+msgstr ""
+
+#: includes/emails/request-for-quote/class-b2be-request-for-qoute-on-message-send.php:54
+msgid "Your {site_title} Qoute has been received!"
+msgstr ""
+
+#: includes/emails/request-for-quote/class-b2be-request-for-qoute-on-message-send.php:64
+msgid "Thank you for your Qoute"
+msgstr ""
+
+#: includes/emails/request-for-quote/class-b2be-request-for-qoute-on-message-send.php:139
+#: includes/emails/request-for-quote/class-b2be-request-for-qoute-status-change.php:138
+msgid "We look forward to fulfilling your order soon."
+msgstr ""
+
+#: includes/emails/request-for-quote/class-b2be-request-for-qoute-status-change.php:32
+msgid "Request For qoute On Status Change"
+msgstr ""
+
+#: includes/emails/request-for-quote/class-b2be-request-for-qoute-status-change.php:33
+msgid ""
+"This is a notification sent to customers containing order details after a "
+"qoute is Sent."
+msgstr ""
+
+#: includes/emails/request-for-quote/class-b2be-request-for-qoute-status-change.php:53
+msgid "Your {site_title} qoute has been received!"
+msgstr ""
+
+#: includes/emails/request-for-quote/class-rfq-email-customer-quote-submitted.php:25
+msgid "Quote Submited / Quote details"
+msgstr ""
+
+#: includes/emails/request-for-quote/class-rfq-email-customer-quote-submitted.php:26
+msgid ""
+"Customer quote emails can be sent to customers containing their quote "
+"information."
+msgstr ""
+
+#: includes/emails/request-for-quote/class-rfq-email-customer-quote-submitted.php:58
+msgid "Your latest {site_title} Quotation"
+msgstr ""
+
+#: includes/emails/request-for-quote/class-rfq-email-customer-quote-submitted.php:69
+msgid "Your quotes for quote #{quote_number}"
+msgstr ""
+
+#: includes/emails/request-for-quote/class-rfq-email-customer-quote-submitted.php:100
+msgid "Thanks for using {site_address}!"
+msgstr ""
+
+#: includes/emails/request-for-quote/class-rfq-email-customer-quote-submitted.php:179
+#: includes/emails/request-for-quote/class-rfq-email-quote-accepted.php:143
+#: includes/emails/request-for-quote/class-rfq-email-quote-need-revision.php:143
+#: includes/emails/request-for-quote/class-rfq-email-quote-rejected.php:144
+#: includes/emails/request-for-quote/class-wc-email-new-admin-comment.php:141
+#: includes/emails/request-for-quote/class-wc-email-new-comment.php:137
+#: includes/emails/request-for-quote/class-wc-email-new-rfq-email-to-customer.php:143
+#: includes/emails/request-for-quote/class-wc-email-new-rfq.php:137
+#, php-format
+msgid "Available placeholders: %s"
+msgstr ""
+
+#: includes/emails/request-for-quote/class-rfq-email-customer-quote-submitted.php:182
+#: includes/emails/request-for-quote/class-rfq-email-quote-accepted.php:146
+#: includes/emails/request-for-quote/class-rfq-email-quote-need-revision.php:146
+#: includes/emails/request-for-quote/class-rfq-email-quote-rejected.php:147
+#: includes/emails/request-for-quote/class-wc-email-new-admin-comment.php:144
+#: includes/emails/request-for-quote/class-wc-email-new-comment.php:140
+#: includes/emails/request-for-quote/class-wc-email-new-rfq-email-to-customer.php:146
+#: includes/emails/request-for-quote/class-wc-email-new-rfq.php:140
+#: includes/payment-method/gateways/class-b2be-payment-gateway-1.php:55
+msgid "Enable/Disable"
+msgstr ""
+
+#: includes/emails/request-for-quote/class-rfq-email-customer-quote-submitted.php:184
+#: includes/emails/request-for-quote/class-rfq-email-quote-accepted.php:148
+#: includes/emails/request-for-quote/class-rfq-email-quote-need-revision.php:148
+#: includes/emails/request-for-quote/class-rfq-email-quote-rejected.php:149
+#: includes/emails/request-for-quote/class-wc-email-new-admin-comment.php:146
+#: includes/emails/request-for-quote/class-wc-email-new-comment.php:142
+#: includes/emails/request-for-quote/class-wc-email-new-rfq-email-to-customer.php:148
+#: includes/emails/request-for-quote/class-wc-email-new-rfq.php:142
+msgid "Enable this email notification"
+msgstr ""
+
+#: includes/emails/request-for-quote/class-rfq-email-customer-quote-submitted.php:188
+#: includes/emails/request-for-quote/class-rfq-email-quote-accepted.php:161
+#: includes/emails/request-for-quote/class-rfq-email-quote-need-revision.php:161
+#: includes/emails/request-for-quote/class-rfq-email-quote-rejected.php:162
+#: includes/emails/request-for-quote/class-wc-email-new-admin-comment.php:159
+#: includes/emails/request-for-quote/class-wc-email-new-comment.php:155
+#: includes/emails/request-for-quote/class-wc-email-new-rfq-email-to-customer.php:161
+#: includes/emails/request-for-quote/class-wc-email-new-rfq.php:155
+msgid "Subject"
+msgstr ""
+
+#: includes/emails/request-for-quote/class-rfq-email-customer-quote-submitted.php:196
+#: includes/emails/request-for-quote/class-rfq-email-quote-accepted.php:169
+#: includes/emails/request-for-quote/class-rfq-email-quote-need-revision.php:169
+#: includes/emails/request-for-quote/class-rfq-email-quote-rejected.php:170
+#: includes/emails/request-for-quote/class-wc-email-new-admin-comment.php:167
+#: includes/emails/request-for-quote/class-wc-email-new-comment.php:163
+#: includes/emails/request-for-quote/class-wc-email-new-rfq-email-to-customer.php:169
+#: includes/emails/request-for-quote/class-wc-email-new-rfq.php:163
+msgid "Email heading"
+msgstr ""
+
+#: includes/emails/request-for-quote/class-rfq-email-customer-quote-submitted.php:204
+msgid "Subject (paid)"
+msgstr ""
+
+#: includes/emails/request-for-quote/class-rfq-email-customer-quote-submitted.php:212
+msgid "Email heading (paid)"
+msgstr ""
+
+#: includes/emails/request-for-quote/class-rfq-email-customer-quote-submitted.php:220
+#: includes/emails/request-for-quote/class-rfq-email-quote-accepted.php:186
+#: includes/emails/request-for-quote/class-rfq-email-quote-need-revision.php:186
+#: includes/emails/request-for-quote/class-rfq-email-quote-rejected.php:187
+#: includes/emails/request-for-quote/class-wc-email-new-admin-comment.php:175
+#: includes/emails/request-for-quote/class-wc-email-new-comment.php:171
+#: includes/emails/request-for-quote/class-wc-email-new-rfq-email-to-customer.php:177
+#: includes/emails/request-for-quote/class-wc-email-new-rfq.php:171
+msgid "Email type"
+msgstr ""
+
+#: includes/emails/request-for-quote/class-rfq-email-customer-quote-submitted.php:222
+#: includes/emails/request-for-quote/class-rfq-email-quote-accepted.php:188
+#: includes/emails/request-for-quote/class-rfq-email-quote-need-revision.php:188
+#: includes/emails/request-for-quote/class-rfq-email-quote-rejected.php:189
+#: includes/emails/request-for-quote/class-wc-email-new-admin-comment.php:177
+#: includes/emails/request-for-quote/class-wc-email-new-comment.php:173
+#: includes/emails/request-for-quote/class-wc-email-new-rfq-email-to-customer.php:179
+#: includes/emails/request-for-quote/class-wc-email-new-rfq.php:173
+msgid "Choose which format of email to send."
+msgstr ""
+
+#: includes/emails/request-for-quote/class-rfq-email-quote-accepted.php:24
+msgid "Quote Accepted"
+msgstr ""
+
+#: includes/emails/request-for-quote/class-rfq-email-quote-accepted.php:25
+msgid ""
+"Quote accepted emails are sent to chosen recipient(s) when quote have been "
+"marked accepted by customer (if they were previously quoted)."
+msgstr ""
+
+#: includes/emails/request-for-quote/class-rfq-email-quote-accepted.php:48
+msgid "[{site_title}]: Quote #{quote_number} has been accepted"
+msgstr ""
+
+#: includes/emails/request-for-quote/class-rfq-email-quote-accepted.php:58
+msgid "Quote Accepted: #{quote_number}"
+msgstr ""
+
+#: includes/emails/request-for-quote/class-rfq-email-quote-accepted.php:135
+#: includes/emails/request-for-quote/class-rfq-email-quote-need-revision.php:135
+#: includes/emails/request-for-quote/class-rfq-email-quote-rejected.php:136
+msgid "Thanks for reading."
+msgstr ""
+
+#: includes/emails/request-for-quote/class-rfq-email-quote-accepted.php:152
+#: includes/emails/request-for-quote/class-rfq-email-quote-need-revision.php:152
+#: includes/emails/request-for-quote/class-rfq-email-quote-rejected.php:153
+#: includes/emails/request-for-quote/class-wc-email-new-admin-comment.php:150
+#: includes/emails/request-for-quote/class-wc-email-new-comment.php:146
+#: includes/emails/request-for-quote/class-wc-email-new-rfq-email-to-customer.php:152
+#: includes/emails/request-for-quote/class-wc-email-new-rfq.php:146
+msgid "Recipient(s)"
+msgstr ""
+
+#: includes/emails/request-for-quote/class-rfq-email-quote-accepted.php:155
+#: includes/emails/request-for-quote/class-rfq-email-quote-need-revision.php:155
+#: includes/emails/request-for-quote/class-rfq-email-quote-rejected.php:156
+#: includes/emails/request-for-quote/class-wc-email-new-admin-comment.php:153
+#: includes/emails/request-for-quote/class-wc-email-new-comment.php:149
+#: includes/emails/request-for-quote/class-wc-email-new-rfq-email-to-customer.php:155
+#: includes/emails/request-for-quote/class-wc-email-new-rfq.php:149
+#, php-format
+msgid "Enter recipients (comma separated) for this email. Defaults to %s."
+msgstr ""
+
+#: includes/emails/request-for-quote/class-rfq-email-quote-accepted.php:177
+#: includes/emails/request-for-quote/class-rfq-email-quote-need-revision.php:177
+#: includes/emails/request-for-quote/class-rfq-email-quote-rejected.php:178
+msgid "Additional content"
+msgstr ""
+
+#: includes/emails/request-for-quote/class-rfq-email-quote-accepted.php:178
+#: includes/emails/request-for-quote/class-rfq-email-quote-need-revision.php:178
+#: includes/emails/request-for-quote/class-rfq-email-quote-rejected.php:179
+msgid "Text to appear below the main email content."
+msgstr ""
+
+#: includes/emails/request-for-quote/class-rfq-email-quote-accepted.php:180
+#: includes/emails/request-for-quote/class-rfq-email-quote-need-revision.php:180
+#: includes/emails/request-for-quote/class-rfq-email-quote-rejected.php:181
+msgid "N/A"
+msgstr ""
+
+#: includes/emails/request-for-quote/class-rfq-email-quote-need-revision.php:24
+msgid "Quote needs Revision"
+msgstr ""
+
+#: includes/emails/request-for-quote/class-rfq-email-quote-need-revision.php:25
+msgid ""
+"Quote needs revision emails are sent to chosen recipient(s) when quote have "
+"been marked need revision by customer (if they were previously quoted)."
+msgstr ""
+
+#: includes/emails/request-for-quote/class-rfq-email-quote-need-revision.php:48
+msgid "[{site_title}]: Quote #{quote_number} needs revision"
+msgstr ""
+
+#: includes/emails/request-for-quote/class-rfq-email-quote-need-revision.php:58
+msgid "Quote : #{quote_number} Needs Revision"
+msgstr ""
+
+#: includes/emails/request-for-quote/class-rfq-email-quote-rejected.php:25
+msgid "Quote Rejected"
+msgstr ""
+
+#: includes/emails/request-for-quote/class-rfq-email-quote-rejected.php:26
+msgid ""
+"Quote rejected emails are sent to chosen recipient(s) when quote have been "
+"marked rejected by customer (if they were previously processing or quoted)."
+msgstr ""
+
+#: includes/emails/request-for-quote/class-rfq-email-quote-rejected.php:49
+msgid "[{site_title}]: Quote #{quote_number} has been rejected"
+msgstr ""
+
+#: includes/emails/request-for-quote/class-rfq-email-quote-rejected.php:59
+msgid "Quote Rejected: #{quote_number}"
+msgstr ""
+
+#: includes/emails/request-for-quote/class-wc-email-new-admin-comment.php:25
+msgid "New Comment For Customer"
+msgstr ""
+
+#: includes/emails/request-for-quote/class-wc-email-new-admin-comment.php:26
+msgid "New Comment emails are sent to customer when a new Comment is received."
+msgstr ""
+
+#: includes/emails/request-for-quote/class-wc-email-new-admin-comment.php:54
+#: includes/emails/request-for-quote/class-wc-email-new-comment.php:52
+#: includes/emails/request-for-quote/class-wc-email-new-rfq-email-to-customer.php:56
+#: includes/emails/request-for-quote/class-wc-email-new-rfq.php:51
+msgid "[{site_title}]: New quote #{quote_number}"
+msgstr ""
+
+#: includes/emails/request-for-quote/class-wc-email-new-admin-comment.php:64
+#: includes/emails/request-for-quote/class-wc-email-new-comment.php:62
+msgid "New Comment: #{quote_number}"
+msgstr ""
+
+#: includes/emails/request-for-quote/class-wc-email-new-comment.php:25
+msgid "New Comment For Admin"
+msgstr ""
+
+#: includes/emails/request-for-quote/class-wc-email-new-comment.php:26
+msgid ""
+"New Comment emails are sent to chosen recipient(s) when a new Comment is "
+"received."
+msgstr ""
+
+#: includes/emails/request-for-quote/class-wc-email-new-rfq-email-to-customer.php:26
+msgid "New RFQ Email To Customer"
+msgstr ""
+
+#: includes/emails/request-for-quote/class-wc-email-new-rfq-email-to-customer.php:27
+#: includes/emails/request-for-quote/class-wc-email-new-rfq.php:25
+msgid ""
+"New RFQ emails are sent to chosen recipient(s) when a new RFQ is received."
+msgstr ""
+
+#: includes/emails/request-for-quote/class-wc-email-new-rfq-email-to-customer.php:66
+#: includes/emails/request-for-quote/class-wc-email-new-rfq.php:61
+msgid "New RFQ: #{quote_number}"
+msgstr ""
+
+#: includes/emails/request-for-quote/class-wc-email-new-rfq.php:24
+msgid "New RFQ"
+msgstr ""
+
+#: includes/payment-method/class-b2be-payment-method-settings.php:50
+msgid ""
+"<p>Adds a customized payment method for B2B customers who have payment terms "
+"with you e.g. Net 30, Net 60.<br/>Customers can select and proceed with "
+"chekout without any immediate monetory\ttransaction.<p/>"
+msgstr ""
+
+#: includes/payment-method/class-b2be-payment-method-settings.php:55
+msgid "This will enable  Payment Method option."
+msgstr ""
+
+#: includes/payment-method/class-b2be-payment-method-settings.php:57
+msgid "Enable Payment Method"
+msgstr ""
+
+#: includes/payment-method/gateways/class-b2be-payment-gateway-1.php:62
+msgid "Title"
+msgstr ""
+
+#: includes/payment-method/gateways/class-b2be-payment-gateway-1.php:64
+msgid ""
+"This controls the title for the payment method the customer sees during "
+"checkout."
+msgstr ""
+
+#: includes/payment-method/gateways/class-b2be-payment-gateway-1.php:70
+msgid "Description"
+msgstr ""
+
+#: includes/payment-method/gateways/class-b2be-payment-gateway-1.php:72
+msgid "Payment method description that the customer will see on your checkout."
+msgstr ""
+
+#: includes/re-order/class-b2be-re-order-settings.php:46
+msgid "Re-Order settings"
+msgstr ""
+
+#: includes/re-order/class-b2be-re-order-settings.php:48
+msgid ""
+"This feature of Re-order allow users to make same order again on just 1 "
+"click."
+msgstr ""
+
+#: includes/re-order/class-b2be-re-order-settings.php:52
+msgid "Enable Re-Order Feature"
+msgstr ""
+
+#: includes/re-order/class-b2be-re-order-settings.php:59
+msgid "Text for Re-Order Button"
+msgstr ""
+
+#: includes/request-for-quote/b2be-rfq-functions.php:17
+msgctxt "Quote status"
+msgid "Requested"
+msgstr ""
+
+#: includes/request-for-quote/b2be-rfq-functions.php:18
+#: includes/request-for-quote/class-b2be-rfq-quote-post-types.php:82
+msgctxt "Quote status"
+msgid "Quoted"
+msgstr ""
+
+#: includes/request-for-quote/b2be-rfq-functions.php:19
+#: includes/request-for-quote/class-b2be-rfq-quote-post-types.php:91
+msgctxt "Quote status"
+msgid "Accepted"
+msgstr ""
+
+#: includes/request-for-quote/b2be-rfq-functions.php:20
+#: includes/request-for-quote/class-b2be-rfq-quote-post-types.php:99
+msgctxt "Quote status"
+msgid "Need Revision"
+msgstr ""
+
+#: includes/request-for-quote/b2be-rfq-functions.php:21
+#: includes/request-for-quote/class-b2be-rfq-quote-post-types.php:107
+msgctxt "Quote status"
+msgid "Rejected"
+msgstr ""
+
+#: includes/request-for-quote/b2be-rfq-functions.php:62
+#: includes/request-for-quote/class-b2be-rfq-form-handler.php:318
+#, php-format
+msgctxt "Item name in quotes"
+msgid "&ldquo;%s&rdquo;"
+msgstr ""
+
+#: includes/request-for-quote/b2be-rfq-functions.php:68
+#, php-format
+msgid "%s has been added to your RFQ."
+msgid_plural "%s have been added to your RFQ."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/request-for-quote/b2be-rfq-functions.php:73
+msgid "Continue shopping"
+msgstr ""
+
+#: includes/request-for-quote/b2be-rfq-functions.php:75
+msgid "View RFQ"
+msgstr ""
+
+#: includes/request-for-quote/b2be-rfq-functions.php:179
+msgid "Check Out"
+msgstr ""
+
+#: includes/request-for-quote/b2be-rfq-functions.php:183
+msgid "Accept And Check Out"
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-cart.php:30
+msgid "Get cart should not be called before the wp_loaded action."
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-cart.php:83
+#: includes/request-for-quote/class-b2be-rfq-cart.php:111
+msgid "View cart"
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-cart.php:83
+#, php-format
+msgid "You cannot add another \"%s\" to your cart."
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-cart.php:88
+msgid "Sorry, this product cannot be purchased."
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-cart.php:94
+#, php-format
+msgid ""
+"You cannot add &quot;%s&quot; to the cart because the product is out of "
+"stock."
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-cart.php:99
+#, php-format
+msgid ""
+"You cannot add that amount of &quot;%1$s&quot; to the cart because there is "
+"not enough stock (%2$s remaining)."
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-cart.php:112
+#, php-format
+msgid ""
+"You cannot add that amount to the cart &mdash; we have %1$s in stock and you "
+"already have %2$s in your cart."
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-form-handler.php:187
+msgid "Please choose product options&hellip;"
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-form-handler.php:218
+#, php-format
+msgid "Invalid value posted for %s"
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-form-handler.php:226
+#, php-format
+msgid "%s is a required field"
+msgid_plural "%s are required fields"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/request-for-quote/class-b2be-rfq-form-handler.php:279
+msgid ""
+"Please choose the quantity of items you wish to add to your cart&hellip;"
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-form-handler.php:287
+msgid "Please choose a product to add to your cart&hellip;"
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-form-handler.php:322
+#: includes/request-for-quote/class-b2be-rfq-form-handler.php:326
+#, php-format
+msgid "%s removed."
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-form-handler.php:375
+#, php-format
+msgid "You can only have 1 %s in your cart."
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-form-handler.php:397
+msgid "RFQ updated."
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-form-handler.php:556
+msgid "Quote is marked as Need Revision."
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-form-handler.php:600
+msgid "Quote is marked as Reject."
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-form-handler.php:713
+#: includes/request-for-quote/class-b2be-rfq.php:220
+#, php-format
+msgid ""
+"%1$s has been removed from your cart because it has since been modified. You "
+"can add it back to your cart <a href=\"%2$s\">here</a>."
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-quote-post-types.php:32
+msgctxt "post type general name"
+msgid "Quotes"
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-quote-post-types.php:33
+msgctxt "post type singular name"
+msgid "Quote"
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-quote-post-types.php:34
+msgctxt "admin menu"
+msgid "Quotes"
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-quote-post-types.php:35
+msgctxt "add new on admin bar"
+msgid "Quote"
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-quote-post-types.php:36
+msgctxt "quote"
+msgid "Add New"
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-quote-post-types.php:37
+msgid "Add New Quote"
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-quote-post-types.php:38
+msgid "New Quote"
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-quote-post-types.php:39
+msgid "Edit Quote"
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-quote-post-types.php:40
+msgid "View Quote"
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-quote-post-types.php:41
+msgid "All Quotes"
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-quote-post-types.php:42
+msgid "Search Quotes"
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-quote-post-types.php:43
+msgid "Parent Quotes:"
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-quote-post-types.php:44
+msgid "No quotes found."
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-quote-post-types.php:45
+msgid "No quotes found in Trash."
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-quote-post-types.php:49
+msgid "Quotes for WooCommerce products."
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-quote-post-types.php:74
+msgctxt "Ouote status"
+msgid "Requested"
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-quote-post-types.php:79
+#, php-format
+msgid "Requested <span class=\"count\">(%s)</span>"
+msgid_plural "Requested <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/request-for-quote/class-b2be-rfq-quote-post-types.php:88
+#, php-format
+msgid "Quoted <span class=\"count\">(%s)</span>"
+msgid_plural "Quoted <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/request-for-quote/class-b2be-rfq-quote-post-types.php:96
+#, php-format
+msgid "Accepted <span class=\"count\">(%s)</span>"
+msgid_plural "Accepted <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/request-for-quote/class-b2be-rfq-quote-post-types.php:104
+#, php-format
+msgid "Need Revision <span class=\"count\">(%s)</span>"
+msgid_plural "Need Revision <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/request-for-quote/class-b2be-rfq-quote-post-types.php:112
+#, php-format
+msgid "Rejected <span class=\"count\">(%s)</span>"
+msgid_plural "Rejected <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/request-for-quote/class-b2be-rfq-quote.php:451
+#, php-format
+msgctxt "full name"
+msgid "%1$s %2$s"
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-settings.php:82
+msgid "Global RFQ settings"
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-settings.php:84
+msgid ""
+"This will allow you to set the RFQ functionality globally. But you can also "
+"set it at product and category level."
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-settings.php:91
+msgid "RFQ is Enabled"
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-settings.php:91
+msgid "RFQ is Disabled"
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-settings.php:100
+msgid "Add To Cart Is Disabled"
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-settings.php:100
+msgid "Add To Cart Is Enabled"
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-settings.php:106
+msgid "Add To RFQ Button Label"
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-settings.php:107
+#: includes/request-for-quote/class-b2be-rfq-settings.php:109
+msgid "This Will Change The Label Of Add to RFQ Button"
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-settings.php:115
+msgid "Accept Quote Button Label"
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-settings.php:116
+msgid "This Will Change The Label Of Accept Button"
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-settings.php:118
+msgid "This Will Change The Label Of Accept Quote Button"
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-settings.php:124
+msgid "Reject Quote Button Label"
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-settings.php:125
+#: includes/request-for-quote/class-b2be-rfq-settings.php:127
+msgid "This Will Change The Label Of Reject Quote Button"
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-settings.php:133
+msgid "Need Revision Button Label"
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-settings.php:134
+#: includes/request-for-quote/class-b2be-rfq-settings.php:136
+msgid "This Will Change The Label Of Need Revision Button"
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-settings.php:142
+msgid "View Quote Button Label"
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-settings.php:143
+#: includes/request-for-quote/class-b2be-rfq-settings.php:145
+msgid "This Will Change The Label Of View Quote Button"
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-settings.php:150
+msgid "RFQ Cart Page"
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-settings.php:155
+#: includes/request-for-quote/class-b2be-rfq-settings.php:156
+msgid "Allows you to set selected page as rfq cart page."
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-settings.php:179
+#: includes/request-for-quote/class-b2be-rfq-settings.php:214
+msgid "B2B Ecommerce For WooCommerce Pro "
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-settings.php:180
+#: includes/request-for-quote/class-b2be-rfq-settings.php:215
+msgid "To Get This Feature."
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-settings.php:186
+msgid "Enable RFQ "
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-settings.php:188
+#: includes/request-for-quote/class-b2be-rfq-settings.php:225
+msgid "This will enable RFQ on products belong to this cateogory."
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-settings.php:192
+msgid "Disable add to cart "
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-settings.php:194
+#: includes/request-for-quote/class-b2be-rfq-settings.php:234
+msgid "This will disable Add to cart on products belong to this cateogory."
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-settings.php:223
+msgid " RFQ Is Enabled"
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-settings.php:223
+msgid " RFQ Is Disabled"
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-settings.php:225
+msgid "This will disable RFQ on products belong to this cateogory."
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-settings.php:230
+msgid "Add to cart "
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-settings.php:232
+msgid " Add To Cart Is Disabled"
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-settings.php:232
+msgid " Add To Cart Is Enabled"
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-settings.php:234
+msgid "This will enable Add to cart on products belong to this cateogory."
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-settings.php:282
+msgid "Adds a RFQ button for this product."
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-settings.php:282
+msgid "Removes a RFQ button for this product."
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-settings.php:294
+msgid "Hide  Add to cart on this product."
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq-settings.php:294
+msgid "Show Add to cart on this product."
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq.php:120
+msgid "Your RFQ is currently empty."
+msgstr ""
+
+#: includes/request-for-quote/class-b2be-rfq.php:266
+msgid "Quotes"
+msgstr ""
+
+#: includes/required-login-for-catalogue/class-b2be-required-login-settings.php:76
+msgid "Price Visibility for Products"
+msgstr ""
+
+#: includes/required-login-for-catalogue/class-b2be-required-login-settings.php:79
+msgid ""
+"This Allows You To Hide Catalogue Price For Non-Logged In Customer. <p class="
+"\"b2be-required-login-disabled-overlay-text\">Purchase <a href=\"https://"
+"woocommerce.com/products/b2b-ecommerce-for-woocommerce/\">B2B Ecommerce For "
+"WooCommerce Pro</a> To Get The Disabled Features.</p>"
+msgstr ""
+
+#: includes/required-login-for-catalogue/class-b2be-required-login-settings.php:82
+msgid "Enable Catalogue Price Visibility"
+msgstr ""
+
+#: includes/required-login-for-catalogue/class-b2be-required-login-settings.php:85
+msgid "Enable Or Disable the functionality"
+msgstr ""
+
+#: includes/required-login-for-catalogue/class-b2be-required-login-settings.php:86
+msgid "Select it to hide price for no logged-in customers"
+msgstr ""
+
+#: includes/required-login-for-catalogue/class-b2be-required-login-settings.php:89
+msgid "Hide Whole Catalogue Price"
+msgstr ""
+
+#: includes/required-login-for-catalogue/class-b2be-required-login-settings.php:92
+msgid "Hide whole catalogue price for non logged in users."
+msgstr ""
+
+#: includes/required-login-for-catalogue/class-b2be-required-login-settings.php:93
+msgid ""
+"Replaces price with the \"Sign In to View\" button on all products if the "
+"customer is not logged in."
+msgstr ""
+
+#: includes/required-login-for-catalogue/class-b2be-required-login-settings.php:96
+msgid "Restrict Whole Store"
+msgstr ""
+
+#: includes/required-login-for-catalogue/class-b2be-required-login-settings.php:99
+msgid "Restrict Whole Store for non logged in users."
+msgstr ""
+
+#: includes/required-login-for-catalogue/class-b2be-required-login-settings.php:100
+msgid ""
+"This will not let the customer to access the store if the customer is not "
+"logged in."
+msgstr ""
+
+#: includes/required-login-for-catalogue/class-b2be-required-login-settings.php:106
+msgid "Hide Catalogue Price By Category"
+msgstr ""
+
+#: includes/required-login-for-catalogue/class-b2be-required-login-settings.php:111
+msgid ""
+"Hide prices of products in selected categories if customer is not logged in."
+msgstr ""
+
+#: includes/required-login-for-catalogue/class-b2be-required-login-settings.php:112
+msgid "Select categories of products you want to hide prices for."
+msgstr ""
+
+#: includes/required-login-for-catalogue/class-b2be-required-login-settings.php:119
+msgid "Hide Catalogue Price By Product"
+msgstr ""
+
+#: includes/required-login-for-catalogue/class-b2be-required-login-settings.php:124
+msgid "Hide prices of selected products if customer is not logged in."
+msgstr ""
+
+#: includes/required-login-for-catalogue/class-b2be-required-login-settings.php:125
+msgid "Select products you want to hide prices for."
+msgstr ""
+
+#: includes/required-login-for-catalogue/class-b2be-required-login-settings.php:132
+msgid "Hide Pages"
+msgstr ""
+
+#: includes/required-login-for-catalogue/class-b2be-required-login-settings.php:137
+msgid "Hide selected pages if customer is not logged in."
+msgstr ""
+
+#: includes/required-login-for-catalogue/class-b2be-required-login-settings.php:138
+msgid "Select the pages you want to hide."
+msgstr ""
+
+#: includes/required-login-for-catalogue/class-b2be-required-login.php:69
+#: includes/required-login-for-catalogue/class-b2be-required-login.php:97
+#: templates/request-for-quote/rfq/cart.php:106
+#: templates/request-for-quote/rfq/cart.php:144
+msgid "Sign In To View"
+msgstr ""
+
+#: includes/signup-form/class-b2be-sign-up-form-settings.php:46
+msgid "Signup Form"
+msgstr ""
+
+#: includes/signup-form/class-b2be-sign-up-form-settings.php:49
+msgid ""
+"Copy this short code <span style=\"font-weight:800;\">[b2be_signup_form]</"
+"span>  and paste it anywhere to generate signup form."
+msgstr ""
+
+#: includes/signup-form/class-b2be-sign-up-form-settings.php:52
+msgid "Required Approval"
+msgstr ""
+
+#: includes/signup-form/class-b2be-sign-up-form-settings.php:54
+msgid "Enable required approval"
+msgstr ""
+
+#: includes/signup-form/class-b2be-sign-up-form-settings.php:55
+msgid ""
+"Makes it mandatory to get approval from admin before the user is created "
+"through the Signup form"
+msgstr ""
+
+#: includes/signup-form/class-b2be-sign-up-form.php:62
+msgid "There Is Nothing To Show Please Select Some Fields"
+msgstr ""
+
+#: includes/signup-form/class-b2be-sign-up-form.php:104
+msgid "You Cannot Sign Up.. Username Already Exist!"
+msgstr ""
+
+#: includes/signup-form/class-b2be-sign-up-form.php:126
+msgid "You Cannot Sign Up.. Email Already Exist!"
+msgstr ""
+
+#: includes/signup-form/class-b2be-sign-up-form.php:162
+msgid "User Registered Successfully.Please check your email to set password."
+msgstr ""
+
+#: includes/signup-form/class-b2be-sign-up-form.php:244
+#, php-format
+msgid "Site Name: %s"
+msgstr ""
+
+#: includes/signup-form/class-b2be-sign-up-form.php:246
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: includes/signup-form/class-b2be-sign-up-form.php:247
+msgid "Thank You For Registeration. Please "
+msgstr ""
+
+#: includes/signup-form/class-b2be-sign-up-form.php:249
+msgid " to set your password"
+msgstr ""
+
+#: includes/signup-form/class-b2be-sign-up-form.php:251
+msgid "Set Your Password"
+msgstr ""
+
+#: includes/user-role/class-b2be-custom-roles-cpt.php:37
+msgctxt "post type general name"
+msgid "Custom Role"
+msgstr ""
+
+#: includes/user-role/class-b2be-custom-roles-cpt.php:38
+msgctxt "post type singular name"
+msgid "Role"
+msgstr ""
+
+#: includes/user-role/class-b2be-custom-roles-cpt.php:39
+msgctxt "admin menu"
+msgid "Custom Role"
+msgstr ""
+
+#: includes/user-role/class-b2be-custom-roles-cpt.php:40
+msgctxt "add new on admin bar"
+msgid "Custom Role"
+msgstr ""
+
+#: includes/user-role/class-b2be-custom-roles-cpt.php:41
+msgctxt "role"
+msgid "Add New"
+msgstr ""
+
+#: includes/user-role/class-b2be-custom-roles-cpt.php:42
+msgid "Add New Role"
+msgstr ""
+
+#: includes/user-role/class-b2be-custom-roles-cpt.php:43
+msgid "New Role"
+msgstr ""
+
+#: includes/user-role/class-b2be-custom-roles-cpt.php:44
+msgid "Edit Role"
+msgstr ""
+
+#: includes/user-role/class-b2be-custom-roles-cpt.php:45
+msgid "View Role"
+msgstr ""
+
+#: includes/user-role/class-b2be-custom-roles-cpt.php:46
+msgid "All Roles"
+msgstr ""
+
+#: includes/user-role/class-b2be-custom-roles-cpt.php:47
+msgid "Search Roles"
+msgstr ""
+
+#: includes/user-role/class-b2be-custom-roles-cpt.php:48
+msgid "Parent Roles:"
+msgstr ""
+
+#: includes/user-role/class-b2be-custom-roles-cpt.php:49
+msgid "No custom roles found."
+msgstr ""
+
+#: includes/user-role/class-b2be-custom-roles-cpt.php:50
+msgid "No custom roles found in Trash."
+msgstr ""
+
+#: includes/user-role/class-b2be-custom-roles-cpt.php:54
+msgid "Roles for WooCommerce products."
+msgstr ""
+
+#: includes/user-role/class-b2be-custom-roles-cpt.php:78
+msgid "Shipping Exemption"
+msgstr ""
+
+#: includes/user-role/class-b2be-custom-roles-cpt.php:79
+msgid "Tax Exemption"
+msgstr ""
+
+#: includes/user-role/class-b2be-custom-roles-cpt.php:80
+msgid "WooCommerce Payment Method(s)"
+msgstr ""
+
+#: includes/user-role/class-b2be-custom-roles-cpt.php:81
+msgid "B2B Ecommerce Payment Method(s)"
+msgstr ""
+
+#: includes/user-role/class-b2be-custom-roles-cpt.php:82
+msgid "Credit Payment(s)"
+msgstr ""
+
+#: includes/user-role/class-b2be-custom-roles-cpt.php:201
+#: includes/user-role/class-b2be-custom-roles-cpt.php:242
+msgid "No Payment Methods are available."
+msgstr ""
+
+#: includes/user-role/class-b2be-custom-roles-cpt.php:219
+#: includes/user-role/class-b2be-custom-roles-cpt.php:260
+msgid "This will enable "
+msgstr ""
+
+#: includes/user-role/class-b2be-custom-roles-cpt.php:219
+#: includes/user-role/class-b2be-custom-roles-cpt.php:260
+msgid " payment method "
+msgstr ""
+
+#: includes/user-role/class-b2be-custom-roles-cpt.php:226
+#: includes/user-role/class-b2be-custom-roles-cpt.php:267
+msgid "Enable The Payment Methods from "
+msgstr ""
+
+#: includes/user-role/class-b2be-custom-roles-cpt.php:226
+#: includes/user-role/class-b2be-custom-roles-cpt.php:267
+msgid "Payment Method's settings"
+msgstr ""
+
+#: templates/request-for-quote/emails/admin-new-comment.php:20
+#, php-format
+msgid "You’ve received the following comment from customer %s:"
+msgstr ""
+
+#: templates/request-for-quote/emails/admin-new-rfq.php:21
+#, php-format
+msgid "You’ve received the following quote from %s:"
+msgstr ""
+
+#: templates/request-for-quote/emails/admin-rfq-accepted.php:21
+#, php-format
+msgid "Quote #%1$s belonging to %2$s has been accepted."
+msgstr ""
+
+#: templates/request-for-quote/emails/admin-rfq-need-revision.php:21
+#, php-format
+msgid "Quote #%1$s belonging to %2$s needs revision."
+msgstr ""
+
+#: templates/request-for-quote/emails/admin-rfq-rejected.php:21
+#, php-format
+msgid "Quote #%1$s belonging to %2$s has been rejected."
+msgstr ""
+
+#: templates/request-for-quote/emails/customer-new-comment.php:22
+#, php-format
+msgid "You’ve received the following comment from site owner %s:"
+msgstr ""
+
+#: templates/request-for-quote/emails/customer-quote-submitted.php:25
+#: templates/request-for-quote/emails/request-for-qoute-on-create.php:21
+#: templates/request-for-quote/emails/request-for-qoute-on-edit.php:21
+#: templates/request-for-quote/emails/request-for-qoute-on-message-send.php:21
+#: templates/request-for-quote/emails/request-for-qoute-on-status-change.php:21
+#: templates/request-for-quote/emails/plain/customer-quote-submitted.php:25
+#: templates/request-for-quote/emails/plain/request-for-qoute-on-edit.php:20
+#: templates/request-for-quote/emails/plain/request-for-qoute-on-message-send.php:20
+#: templates/request-for-quote/emails/plain/request-for-qoute-on-status-change.php:20
+#, php-format
+msgid "Hi %s,"
+msgstr ""
+
+#: templates/request-for-quote/emails/customer-quote-submitted.php:30
+#, php-format
+msgid "Here are the quotes you've requested on %s:"
+msgstr ""
+
+#: templates/request-for-quote/emails/new-rfq-email-to-customer.php:21
+msgid "Your following quote has been sent to the Admin "
+msgstr ""
+
+#: templates/request-for-quote/emails/new-user-mail-to-admin.php:21
+msgid "New User Registered"
+msgstr ""
+
+#: templates/request-for-quote/emails/new-user-mail-to-admin.php:25
+msgid "User Email: "
+msgstr ""
+
+#: templates/request-for-quote/emails/request-for-qoute-on-create.php:22
+#: templates/request-for-quote/emails/request-for-qoute-on-edit.php:22
+#: templates/request-for-quote/emails/request-for-qoute-on-message-send.php:22
+#: templates/request-for-quote/emails/request-for-qoute-on-status-change.php:22
+msgid "Thanks for your Quote. Here’s a reminder of what you Quoted:"
+msgstr ""
+
+#: templates/request-for-quote/emails/plain/admin-new-rfq.php:25
+#, php-format
+msgid "You’ve received the following order from %s:"
+msgstr ""
+
+#: templates/request-for-quote/emails/plain/customer-quote-submitted.php:31
+#, php-format
+msgid ""
+"An order has been created for you on %1$s. Your invoice is below, with a "
+"link to make payment when you’re ready: %2$s"
+msgstr ""
+
+#: templates/request-for-quote/emails/plain/customer-quote-submitted.php:39
+#, php-format
+msgid "Here are the details of your order placed on %s:"
+msgstr ""
+
+#: templates/request-for-quote/emails/plain/request-for-qoute-on-edit.php:22
+#: templates/request-for-quote/emails/plain/request-for-qoute-on-message-send.php:22
+#: templates/request-for-quote/emails/plain/request-for-qoute-on-status-change.php:22
+#, php-format
+msgid ""
+"Just to let you know &mdash; we've received your order #%s, and it is now "
+"being processed:"
+msgstr ""
+
+#: templates/request-for-quote/myaccount/quotes.php:18
+msgid "Quote # "
+msgstr ""
+
+#: templates/request-for-quote/myaccount/quotes.php:19
+msgid "Date"
+msgstr ""
+
+#: templates/request-for-quote/myaccount/quotes.php:20
+msgid "Status"
+msgstr ""
+
+#: templates/request-for-quote/myaccount/quotes.php:22
+msgid "Actions"
+msgstr ""
+
+#: templates/request-for-quote/myaccount/quotes.php:63
+msgctxt "hash before order number"
+msgid "#"
+msgstr ""
+
+#: templates/request-for-quote/myaccount/quotes.php:96
+#, php-format
+msgid "%1$s for %2$s item"
+msgid_plural "%1$s for %2$s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/request-for-quote/myaccount/view-quote.php:28
+#, php-format
+msgid "Quote #%1$s was submitted on %2$s and is currently %3$s."
+msgstr ""
+
+#: templates/request-for-quote/myaccount/view-quote.php:44
+msgid "Customer Chat"
+msgstr ""
+
+#: templates/request-for-quote/quote/quote-details-customer.php:23
+msgid "Customer Details"
+msgstr ""
+
+#: templates/request-for-quote/quote/quote-details.php:33
+msgid "Quote details"
+msgstr ""
+
+#: templates/request-for-quote/rfq/cart-empty.php:28
+msgid "Return to shop"
+msgstr ""
+
+#: templates/request-for-quote/rfq/cart.php:33
+#: templates/request-for-quote/rfq/cart.php:101
+msgid "Price"
+msgstr ""
+
+#: templates/request-for-quote/rfq/cart.php:60
+msgid "Remove this item"
+msgstr ""
+
+#: templates/request-for-quote/rfq/cart.php:96
+msgid "Available on backorder"
+msgstr ""
+
+#: templates/request-for-quote/rfq/cart.php:162
+msgid "Update RFQ"
+msgstr ""
+
+#: templates/request-for-quote/rfq/cart.php:185
+msgid "Submit RFQ"
+msgstr ""
+
+#: templates/signup-form/sign-up-form.php:37
+msgid "Select A Role..."
+msgstr ""
